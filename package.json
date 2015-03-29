@@ -1,0 +1,26 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "express-demo",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ywqsimmon/express-demo.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "yuweiqian2007@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ywqsimmon/express-demo/issues"
+  },
+  "homepage": "https://github.com/ywqsimmon/express-demo",
+  "dependencies": {
+    "express": "^4.12.3",
+    "hbs": "^3.0.1"
+  }
+}
