@@ -23,7 +23,6 @@ app.get('/about', function(req, res){
 
 app.get('/artical/:id', function(req, res){
     var entry = blogEngine.getBlogEntry(req.params.id);
-    console.log(entry);
     res.render('artical',{
         title: entry.title,
         blog: entry
