@@ -4,7 +4,7 @@
 * 模版引擎handlebars
 * 数据源blog.js
 
-# 动行方式
+### 动行方式
 ```
 node server
 ```
